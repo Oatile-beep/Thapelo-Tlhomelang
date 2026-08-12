@@ -18,6 +18,8 @@ Final-year BSc Computer Science & Statistics student at the University of Zulula
 
 **[data-science-portfolio](https://github.com/Oatile-beep/data-science-portfolio)** — Self-directed collection of applied data science work: web scraping & EDA, regression (crop yield prediction), classification (Iris species — Logistic Regression, Random Forest, SVM), SARIMA time series sales forecasting, and NLP spam/ham text classification (TF-IDF + Naive Bayes/Logistic Regression).
 
+**[Resturant-PowerApp](https://github.com/Oatile-beep/Resturant-PowerApp)** — Campus Restaurant POS System built on the Microsoft Power Platform. Lets students browse menus, place orders, and track them from their mobile devices — Manage Menu, New Order, and Track Orders in one low-code app.
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -26,6 +28,7 @@ Final-year BSc Computer Science & Statistics student at the University of Zulula
 
 ## 📜 Certifications
 
+- 🏆 Second Best Achiever — Introductory Software Engineering
 - Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 - Kaggle: Python · Introduction to Machine Learning · Introduction to Programming
 - Simplilearn SkillUp: Introduction to SQL · Introduction to Data Science
